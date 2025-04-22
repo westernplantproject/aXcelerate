@@ -230,7 +230,7 @@ npm run storybook
 
 Then visit [http://localhost:6006](http://localhost:6006) in your browser.
 
----
+--- 
 
 ## ✨ Features Demonstrated
 
